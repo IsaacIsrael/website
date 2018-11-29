@@ -4,3 +4,5 @@ This is a smaple website made as part of [*Learn Enoug™ Git to Be Dangerous*](
 the email list](http://learnenough.com/#email_list) and [follow @learenough](http://twitter.com/learnenough) on Twitter.
 
 After finishing *Learn Enough™ Git to be Dangerous*, you'll know enough Git to be *dangerious*. This means you'll be able to use Git to track changes in your projects, back uop data, share your work with others and collaborate with programmers and other users of Git.
+
+[Git Documentation](https://git-scm.com/doc)
